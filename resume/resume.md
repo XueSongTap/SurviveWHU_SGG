@@ -171,6 +171,11 @@ https://github.com/liangliangyy/DjangoBlog
 
 https://github.com/wsvincent/awesome-django
 
+
+
+#### 基于django的谷里学院 
+
+https://www.bilibili.com/video/BV1qb411P7XQ/?vd_source=7371452b85fe4d187885825b04f8393a
 #### 基于Django的地理信息系统
 
 能更容易与地理信息系统项目协作的包。
@@ -186,7 +191,7 @@ https://github.com/longzx-9527/flask_spider
 
 https://github.com/happyte/flask-blog
 
-
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
 
 
 ### 嵌入式项目
