@@ -120,6 +120,12 @@ https://github.com/yanyiwu/cppjieba
 
 #### 基于文本检索的轻量级搜索引擎
 https://github.com/stdbilly/SearchEnigine
+
+
+### 基于c++的模型部署平台
+
+https://github.com/gdyshi/model_deployment
+
 ### java项目
 
 #### 基于 Netty 的简易 RPC 框架实现
@@ -152,6 +158,8 @@ sprintboot mysql mybatis maven lombok spring session redis
 
 
 https://gitee.com/itxinfei/reggie
+
+
 
 
 ### python项目
@@ -193,6 +201,20 @@ https://github.com/happyte/flask-blog
 
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
 
+
+
+#### 基于flask的深度学习图像识别部署系统
+
+https://github.com/jiajunhua/StevenLei2017-AI_projects
+
+https://www.bilibili.com/video/BV1M4411n789/?vd_source=7371452b85fe4d187885825b04f8393a
+
+
+https://leovan.me/cn/2018/10/serving-models-with-flask-and-gae/
+
+### 基于flask vue的Yolov5模型部署系统
+
+https://github.com/liuxiaoxiao666/Yolov5-Flask-VUE
 
 ### 嵌入式项目
 
